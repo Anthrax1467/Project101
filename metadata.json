@@ -1,0 +1,7 @@
+{
+  "name": "Sajha Hub - Global Nepali Diaspora Hub",
+  "description": "The common marketplace for Nepalis in the UK, USA, Europe, and Middle East. Focused on rentals, events, festivals, and accommodation blogs for students and workers abroad.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
